@@ -1,4 +1,4 @@
-### A brief explanation of the Labouchère strategy
+O### A brief explanation of the Labouchère strategy
  
 
  - Total Amount you want to win(may change actual amount with the payout)
