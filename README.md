@@ -100,7 +100,7 @@ Note: no strategy is 100% successful. The house always has the edge :)
  
 BTC : 19SNroELouycxUmfrBfA8w8x168RCCk8XU
 
-ETH: 0xe5edc5aaf2dde14dd368760dd7f0bc01685523dc
+ETH: 0xa64B156a5431b86C6911E1d48A30C1b7a399cF37
 
 Doge: DRmZy9h6iqeQw7uzPyckgU9SWmW2mh1jv1
 
